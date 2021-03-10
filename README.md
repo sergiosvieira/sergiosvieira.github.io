@@ -82,7 +82,7 @@ my programming skills.
 
 ### Frameworks / Libraries / API / SDK
 #### Laravel 
-- Loan manager https://github.com/sergiosvieira/key-manager
+- Loan manager [link](https://github.com/sergiosvieira/key-manager)
 
 #### Flutter
 - Dell lab 01 - Calculator - [link](https://github.com/sergiosvieira/flutter_3_3)
