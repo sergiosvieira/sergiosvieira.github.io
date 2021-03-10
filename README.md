@@ -78,7 +78,7 @@ my programming skills.
 ### Markup Languages
 #### HTML/CSS/Javascript
 - My Lectures - [link](https://github.com/sergiosvieira/aulas-pweb)
-- jq-prototype - https://github.com/t2dplayer/jq-prototype
+- jq-prototype - [link](https://github.com/t2dplayer/jq-prototype)
 
 ### Frameworks / Libraries / API / SDK
 #### Laravel 
