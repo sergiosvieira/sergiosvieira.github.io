@@ -59,6 +59,7 @@ my programming skills.
 
 #### Java
 - Clacket - [link](https://github.com/sergiosvieira/Clacket)
+- Academic Project Manager - [link](https://github.com/t2dplayer/projeto_integrado)
 
 #### NodeJS
 - Lecture Helper - [link](https://github.com/sergiosvieira/school-year)
